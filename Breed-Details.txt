@@ -1,0 +1,49 @@
+Some stats about this breed :-
+Dog Breed Group:Companion Dogs
+Height:9 to 11 inches tall at the shoulder
+Weight:7 to 9 pounds
+Life Span:12 to 14 years
+
+Characteristics :-
+
+ Adaptability  -->  /5
+
+Adapts Well To Apartment Living  -->  5/5
+Good For Novice Owners  -->  4/5
+Sensitivity Level  -->  3/5
+Tolerates Being Alone  -->  1/5
+Tolerates Cold Weather  -->  3/5
+Tolerates Hot Weather  -->  3/5
+
+ All Around Friendliness  -->  /5
+
+Affectionate With Family  -->  5/5
+Kid-Friendly  -->  1/5
+Dog Friendly  -->  4/5
+Friendly Toward Strangers  -->  3/5
+
+ Health And Grooming Needs  -->  /5
+
+Amount Of Shedding  -->  1/5
+Drooling Potential  -->  1/5
+Easy To Groom  -->  3/5
+General Health  -->  4/5
+Potential For Weight Gain  -->  3/5
+Size  -->  1/5
+
+ Trainability  -->  /5
+
+Easy To Train  -->  2/5
+Intelligence  -->  4/5
+Potential For Mouthiness  -->  4/5
+Prey Drive  -->  3/5
+Tendency To Bark Or Howl  -->  2/5
+Wanderlust Potential  -->  2/5
+
+ Physical Needs  -->  /5
+
+Energy Level  -->  4/5
+Intensity  -->  3/5
+Exercise Needs  -->  3/5
+Potential For Playfulness  -->  4/5
+
