@@ -87,7 +87,7 @@ async function compare(count) {
 
 
 ///////////////////////////////////////////
-
+// Press 2---->> { else if(choice==2)}
 function allNames(err , res , html)
 {
     if(!err)
@@ -224,7 +224,7 @@ async function training(option)
 }
 
 ////////////////////////////////////////////////
-
+// Press 1 -->>>  {  if(choice==1) then call benefits };
 async function benefits()
 {
     let browser = await puppy.launch({
@@ -315,7 +315,7 @@ function callMe(choice)
     }
     else if(choice == 3)
     {
-        breedDetails();
+        breedDetails(); 
     }
     else if(choice == 4)
     {
